@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299150402211",
+    "project_id": "poketinder-e3e5c",
+    "storage_bucket": "poketinder-e3e5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299150402211:android:660cd0a94e82faa8e79516",
+        "android_client_info": {
+          "package_name": "com.roque.carlos.poketinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299150402211-4ong0uuqttk91rjdh5b79mk71ct7l8pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyLfvLSi1OLTo9XlMe-3aPYXfRkuSBgmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299150402211-4ong0uuqttk91rjdh5b79mk71ct7l8pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
